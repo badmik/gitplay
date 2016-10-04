@@ -1,3 +1,3 @@
 git add .
-git commit -m "git of today"
+git commit
 git push -u origin master
